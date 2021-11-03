@@ -1,2 +1,3 @@
-# dxcoct2021
-My first demo
+x=100
+y=200
+print(x+y)
